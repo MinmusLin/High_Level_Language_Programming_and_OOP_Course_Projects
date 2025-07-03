@@ -1,17 +1,17 @@
-# Advanced Language Programming and OOP Course Projects
+# High-level Language Programming and OOP Course Projects
 
 ## 解决方案名称
 
-Advanced_Language_Programming_and_OOP_Course_Projects
+High_Level_Language_Programming_and_OOP_Course_Projects
 
 ## 解决方案简介
 
-A collection of my advanced language programming and object-oriented programming course projects, and additional C++ projects.
+A collection of my high-level language programming and object-oriented programming course projects, and additional C++ projects.
 
 2023年同济大学高级语言程序设计和2023年同济大学面向对象程序设计课程项目合集，以及额外的 C++ 项目。
 
 > ***Relevant courses***
-> * Advanced Language Programming 2023 (2023年同济大学高级语言程序设计)
+> * High-level Language Programming 2023 (2023年同济大学高级语言程序设计)
 > * Object-Oriented Programming 2023 (2023年同济大学面向对象程序设计)
 
 ## 解决方案项目组成
