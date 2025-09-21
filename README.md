@@ -15,7 +15,7 @@ A collection of my high-level language programming and object-oriented programmi
 > * High-level Language Programming 2023 (2023 年同济大学高级语言程序设计)
 > * Object-Oriented Programming 2023 (2023 年同济大学面向对象程序设计)
 
-## 解决方案项目组成
+## 项目组成
 
 * [2048 Game](2048_Game)
 2048 游戏
@@ -81,7 +81,3 @@ C++ 代码风格与规范
 
 * [Basic Usage of VS2022 Debugging Tools](Basic_Usage_of_VS2022_Debugging_Tools.pdf)
 Visual Studio 2022 调试工具的基本使用方法
-
-## 集成开发环境
-
-* Microsoft Visual Studio 2022
