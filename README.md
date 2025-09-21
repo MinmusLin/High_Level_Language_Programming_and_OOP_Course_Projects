@@ -15,7 +15,7 @@ A collection of my high-level language programming and object-oriented programmi
 > * High-level Language Programming 2023 (2023 年同济大学高级语言程序设计)
 > * Object-Oriented Programming 2023 (2023 年同济大学面向对象程序设计)
 
-## 项目组成
+## 仓库组成
 
 * [2048 Game](2048_Game)
 2048 游戏
