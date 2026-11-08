@@ -17,8 +17,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gluttonous_Snake", "Glutton
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hanoi_Tower_Demonstration", "Hanoi_Tower_Demonstration\Hanoi_Tower_Demonstration.vcxproj", "{A92719B8-7D99-4E57-8566-EA896CB80C87}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Love_Code", "Love_Code\Love_Code.vcxproj", "{6BFC6E82-A14B-4339-913F-600B978E4CD6}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix_Operations_and_Image_Processing", "Matrix_Operations_and_Image_Processing\Matrix_Operations_and_Image_Processing.vcxproj", "{B0B0ED1B-6A67-415C-930F-DE3555F0506F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mine_Sweeper", "Mine_Sweeper\Mine_Sweeper.vcxproj", "{DBC126B3-33DA-4786-A0E8-EB57B132E639}"
@@ -99,14 +97,6 @@ Global
 		{A92719B8-7D99-4E57-8566-EA896CB80C87}.Release|x64.Build.0 = Release|x64
 		{A92719B8-7D99-4E57-8566-EA896CB80C87}.Release|x86.ActiveCfg = Release|Win32
 		{A92719B8-7D99-4E57-8566-EA896CB80C87}.Release|x86.Build.0 = Release|Win32
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Debug|x64.ActiveCfg = Debug|x64
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Debug|x64.Build.0 = Debug|x64
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Debug|x86.ActiveCfg = Debug|Win32
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Debug|x86.Build.0 = Debug|Win32
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Release|x64.ActiveCfg = Release|x64
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Release|x64.Build.0 = Release|x64
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Release|x86.ActiveCfg = Release|Win32
-		{6BFC6E82-A14B-4339-913F-600B978E4CD6}.Release|x86.Build.0 = Release|Win32
 		{B0B0ED1B-6A67-415C-930F-DE3555F0506F}.Debug|x64.ActiveCfg = Debug|x64
 		{B0B0ED1B-6A67-415C-930F-DE3555F0506F}.Debug|x64.Build.0 = Debug|x64
 		{B0B0ED1B-6A67-415C-930F-DE3555F0506F}.Debug|x86.ActiveCfg = Debug|Win32

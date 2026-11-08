@@ -38,9 +38,6 @@ ASCII 图像查看器和视频播放器
 * [Hanoi Tower Demonstration](Hanoi_Tower_Demonstration)
 汉诺塔综合演示解决方案
 
-* [Love Code](Love_Code)
-爱心代码
-
 * [Matrix Operations and Image Processing](Matrix_Operations_and_Image_Processing)
 矩阵运算与图像处理
 
